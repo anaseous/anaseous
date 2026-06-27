@@ -1,6 +1,6 @@
 # Hi, I'm Anas 👋
 
-## Senior EUC Engineer | Cloud & Infrastructure Engineer | Digital Transformation | IoT & Telematics | Microsoft 365 | Azure | Automation
+## Cloud & Infrastructure Engineer | IoT & Telematics | Microsoft 365 | Azure | Automation
 
 Assisting businesses and governments in Digital Transformation and streamlining mass manual processes. Utilizing modern frameworks, technology, and best practices to deliver software and embedded IoT systems that maintain and support business technology.
 
