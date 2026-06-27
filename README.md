@@ -1,162 +1,180 @@
 # Anas Abdalla
 
-Building practical, reliable, production-ready systems for cloud, infrastructure, automation, IoT, telematics, and self-hosted operations.
+Building practical, reliable, production-ready free to use systems for cloud, infrastructure, automation, IoT, telematics, and self-hosted operations.
 
-This GitHub is an engineering workshop — a collection of real-world solutions, deployment-ready templates, dashboards, integrations, and automation tools that solve operational challenges.
+This GitHub is my engineering workshop — a collection of real-world solutions, deployment-ready templates, dashboards, integrations, and automation tools built to solve operational problems.
 
 Feel free to download, fork, modify, and use my open-source, self-hosted, lifetime-free solutions.
 
 ---
 
-# Featured Solutions
+## Featured Solutions
 
 <details>
 <summary><b>📍 Teltonika Flespi Telegram Bot</b></summary>
 
-Production-ready Telegram notification system for Teltonika FMC920 and FMB920 devices.
+Production-ready Telegram notification system for Teltonika FMC920 and FMB920.
 
-Features:
+### Features
 
 - Google Maps location links
-- OpenStreetMap tracking
+- OpenStreetMap live tracking
 - Ignition alerts
-- Daily trip statistics
-- Idling reports
 - Towing alerts
-- User-controlled reporting intervals directly from Telegram
+- Idling reports
+- Daily trip reports
+- Telegram-controlled reporting intervals
 - Docker deployment
 - Raspberry Pi ready
 
 </details>
 
 <details>
-
-<details>
-<summary><b>🚀 Open Solution Catalog</b></summary>
-
-### Cloud & Infrastructure
-
-- Microsoft 365 Administration
-- Azure Infrastructure
-- Hybrid Identity
-- Microsoft Intune
-- SCCM
-- Active Directory
-- Entra ID
-- Windows Server
-- PowerShell Automation
-
-### IoT & Telematics
-
-- Teltonika
-- Wialon
-- Flespi
-- CAN Bus
-- FMS Data
-- Fuel Monitoring
-- Fleet Management
-- GPS Tracking
-- Driver Behaviour Analytics
-
-### Self-Hosted Solutions
-
-- Docker
-- Node-RED
-- Grafana
-- InfluxDB
-- Paperless-ngx
-- Telegram Bots
-- AI Document Processing
-- Operational Dashboards
-
-### Automation
-
-- Python
-- PowerShell
-- REST APIs
-- Webhooks
-- Low-Code Workflows
-- Telegram Automation
-- Reporting Systems
-
-</details>
-
----
-
 <summary><b>🎥 Simple People Counter</b></summary>
 
-RTSP and video-based people counting platform.
+AI-powered people counting platform.
 
-Features:
+### Features
 
-- RTSP support
-- Video upload
+- RTSP camera input
+- Video upload processing
 - YOLO AI detection
-- Live dashboard
+- Browser dashboard
 - Real-time counting
-- Browser-based interface
-- Docker compatible
+- Docker ready
 
 </details>
 
 <details>
 <summary><b>⚡ Generator Remote Control Dashboard</b></summary>
 
-Generator telemetry and remote operations platform.
+Generator monitoring and operational dashboard.
 
-Supports:
+### Features
 
-- DSE Controllers
-- SmartGen Controllers
-- Teltonika Integration
-- Node-RED Integration
-- Email Alerts
-- Telegram Alerts
-- Remote Monitoring
-- Docker Deployment
+- DSE integration
+- SmartGen integration
+- Node-RED workflows
+- Teltonika integration
+- Fuel monitoring
+- Email alerts
+- Telegram alerts
 
 </details>
 
 <details>
 <summary><b>📄 AI Document Management</b></summary>
 
-Paperless NGX and AI-powered document processing.
+Self-hosted document management and AI automation platform.
 
-Features:
+### Features
 
 - OCR
-- Smart Tagging
-- Metadata Extraction
-- Automatic Classification
-- Full Text Search
-- Self Hosted
+- Smart tagging
+- Metadata extraction
+- AI-assisted classification
+- Full-text search
 
 </details>
 
 ---
 
-# Areas of Engineering
+<details>
+<summary><b>🧭 Engineering Domains & Technologies</b></summary>
+
+
+<details>
+<summary><b>🚀 Open Solution Catalog</b></summary>
+
+## Cloud & Infrastructure
+
+- Microsoft 365
+- Azure
+- Entra ID
+- Intune
+- SCCM
+- Active Directory
+- Windows Server
+- Infrastructure Automation
+- Hybrid Identity
+
+---
+
+## IoT & Telematics
+
+- Teltonika
+- Wialon
+- Flespi
+- GPS Tracking
+- Fleet Monitoring
+- Fuel Monitoring
+- CAN Bus
+- FMS Data
+- Driver Behaviour Analytics
+- Vehicle Diagnostics
+
+---
+
+## Self-Hosted Platforms
+
+- Docker
+- Linux Services
+- Node-RED
+- Grafana
+- InfluxDB
+- Paperless-ngx
+- AI Workflows
+- Telegram Automation
+
+---
+
+## Automation
+
+- PowerShell
+- Python
+- REST APIs
+- Webhooks
+- Reporting Engines
+- Operational Dashboards
+- Workflow Automation
+
+---
+
+## Open Source Philosophy
+
+- Build once, deploy anywhere.
+- Keep solutions simple.
+- Reduce vendor dependency.
+- Prefer self-hosted over subscription-based platforms.
+- Publish practical solutions, not theoretical examples.
+- Design for non-technical users whenever possible.
+
+</details>
+
+---
+
+## Engineering Domains
 
 ```text
 Cloud Infrastructure
 Hybrid Identity
-Microsoft 365
+Digital Transformation
 Endpoint Management
 Automation
-DevOps
 IoT
 Telematics
 Fleet Operations
 Industrial Monitoring
-Data Visualization
-Self Hosted Applications
 Operational Technology
-Digital Transformation
+Self Hosted Platforms
+AI Workflows
+HPC Infrastructure
+Data Visualization
 ```
 
 ---
 
-# Technologies
+## Technologies
 
 ```text
 Azure
@@ -167,101 +185,63 @@ SCCM
 PowerShell
 Python
 Docker
-Node-RED
+Linux
 Grafana
 InfluxDB
-Flespi
+Node-RED
 Wialon
 Teltonika
-Kubernetes
-VMware
-Hyper-V
+Flespi
 REST APIs
 SQL
-Linux
-Windows Server
+VMware
+Hyper-V
+Kubernetes
 ```
 
 ---
 
-# What You'll Find Here
+## What You'll Find Here
 
-✅ Open-source projects
+✅ Open-source solutions
 
-✅ Self-hosted solutions
+✅ Self-hosted platforms
 
-✅ Lifetime-free tools
+✅ Lifetime-free projects
 
-✅ Production deployment guides
+✅ Docker deployments
 
-✅ Docker templates
+✅ Raspberry Pi deployments
 
-✅ Raspberry Pi projects
+✅ Operational dashboards
 
-✅ Field-tested integrations
+✅ IoT integrations
 
-✅ Real-world operational solutions
+✅ Fleet & telematics solutions
+
+✅ Infrastructure automation
 
 ✅ Documentation designed for non-technical users
 
 ---
 
-# Philosophy
-
-Build solutions that:
-
-- work without enterprise licensing
-- can be deployed by small teams
-- are easy to maintain
-- reduce vendor dependency
-- solve real operational problems
-- remain practical years after deployment
-
----
-
-# Current Focus
+## Current Interests
 
 ```text
 AI Infrastructure
-Azure Architecture
-Telematics Platforms
+Cloud Architecture
 Industrial IoT
-Workflow Automation
 HPC Networking
+System Automation
 Self Hosted Platforms
-Operational Dashboards
+Operational Analytics
+Fleet Intelligence
 ```
 
 ---
 
-# Repository Categories
+## Repository Categories
 
 | Category | Description |
 |----------|-------------|
-| Cloud | Azure, Microsoft 365, Infrastructure |
-| Automation | PowerShell, Python, APIs |
-| IoT | Teltonika, Node-RED, Sensors |
-| Fleet | Wialon, Flespi, CAN, Fuel |
-| AI | OCR, Classification, Analytics |
-| Self Hosted | Docker Apps & Linux Services |
-| Dashboards | Grafana & Operational Analytics |
-
----
-
-# Connect
-
-GitHub
-
-```text
-https://github.com/anaseous
-```
-
-Location
-
-```text
-Abu Dhabi, UAE
-```
-
----
-
-> Practical systems. Clear deployment. Real solutions. Free to use.
+<br>
