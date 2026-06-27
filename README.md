@@ -2,7 +2,9 @@
 
 ## Senior EUC Engineer | Cloud & Infrastructure Engineer | Digital Transformation | IoT & Telematics | Microsoft 365 | Azure | Automation
 
-I am an experienced technology professional with a strong background in enterprise IT operations, end-user computing, cloud infrastructure, Microsoft 365, Azure, automation, IoT, telematics, and mission-critical digital transformation projects.
+Assisting businesses and governments in Digital Transformation and streamlining mass manual processes. Utilizing modern frameworks, technology, and best practices to deliver software and embedded IoT systems that maintain and support business technology.
+
+Technical expertise and consulation in enterprise IT operations, cloud infrastructure, Teltonika, Microsoft 365, Azure, automation, IoT, telematics, and mission-critical digital transformation projects.
 
 Throughout my career, I have worked on high-impact government, aviation, telecom, and enterprise infrastructure projects across the UAE, Sudan, and Africa. My experience includes supporting large-scale environments, modernizing IT operations, deploying secure infrastructure, integrating fleet and fuel monitoring platforms, and contributing to digital transformation initiatives that improve reliability, automation, and user experience.
 
