@@ -6,7 +6,16 @@ I am an experienced technology professional with a strong background in enterpri
 
 Throughout my career, I have worked on high-impact government, aviation, telecom, and enterprise infrastructure projects across the UAE, Sudan, and Africa. My experience includes supporting large-scale environments, modernizing IT operations, deploying secure infrastructure, integrating fleet and fuel monitoring platforms, and contributing to digital transformation initiatives that improve reliability, automation, and user experience.
 
-I enjoy building practical, reliable, and production-ready solutions that solve real operational problems.
+Building practical, reliable, and production-ready solutions that solve real operational problems.
+
+**Projects:** Dubai Next Generation Smart Gates | Abu Dhabi Digital Transformation | ADREC Enterprise IT Operations | Microsoft 365 & Azure Administration | Intune & Endpoint Management | SCCM to Intune Modernization | Teltonika & Wialon Fleet Management Solutions | Fuel Monitoring & Technoton Sensor Integration | IoT & Telematics Platforms Across Africa | Node-RED Automation Solutions | Grafana & InfluxDB Monitoring Dashboards | Paperless-ngx AI Document Management | Azure Infrastructure Automation | Microsoft 365 Automation Toolkit | Power Automate Workflows | HPC Networking & AI Infrastructure | RoCE v2 & InfiniBand Deployments | SAN Storage (TIA-942) Solutions | Zain Sudan Data Center Enhancement | Nile Petroleum Digital Solutions | Fleet Fuel Monitoring Platform | Vehicle CAN/FMS Integration Projects | Enterprise Backup & Disaster Recovery | Active Directory & Hybrid Identity Solutions | ITSM & Service Desk Transformation
+
+---
+
+<details>
+<summary><strong>📖 View Full Profile, Projects & Technical Expertise</strong></summary>
+
+<br>
 
 ---
 
@@ -355,3 +364,5 @@ I am open to collaborating on projects related to:
 ---
 
 > “I believe technology should be practical, secure, reliable, and directly connected to real business outcomes.”
+</details>
+
