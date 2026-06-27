@@ -80,10 +80,6 @@ Self-hosted document management and AI automation platform.
 ---
 
 <details>
-<summary><b>🧭 Engineering Domains & Technologies</b></summary>
-
-
-<details>
 <summary><b>🚀 Open Solution Catalog</b></summary>
 
 ## Cloud & Infrastructure
