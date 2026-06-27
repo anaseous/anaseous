@@ -136,7 +136,7 @@ Self-hosted document management and AI automation platform.
 
 ---
 
-## Open Source Philosophy
+## Open Source
 
 - Build once, deploy anywhere.
 - Keep solutions simple.
@@ -148,7 +148,7 @@ Self-hosted document management and AI automation platform.
 </details>
 
 ---
-
+<details>
 ## Engineering Domains
 
 ```text
