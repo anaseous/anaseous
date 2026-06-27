@@ -1,4 +1,4 @@
-# Hi, I'm Anas Ali Omar Abdalla 👋
+# Hi, I'm Anas 👋
 
 ## Senior EUC Engineer | Cloud & Infrastructure Engineer | Digital Transformation | IoT & Telematics | Microsoft 365 | Azure | Automation
 
