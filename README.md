@@ -333,9 +333,8 @@ A sample telemetry and fuel monitoring dashboard using open-source tools.
 ## 📫 Contact
 
 - **GitHub:** https://github.com/anaseous
-- **LinkedIn:** Add your LinkedIn URL here
+- **LinkedIn:** https://www.linkedin.com/in/anaseous/
 - **Location:** Abu Dhabi, United Arab Emirates
-- **Email:** Add your professional email here
 
 ---
 
