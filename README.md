@@ -4,11 +4,13 @@
 
 Assisting businesses and governments in Digital Transformation and streamlining mass manual processes. Utilizing modern frameworks, technology, and best practices to deliver software and embedded IoT systems that maintain and support business technology.
 
-Technical expertise and consulation in enterprise IT operations, cloud infrastructure, Teltonika, Microsoft 365, Azure, automation, IoT, telematics, and mission-critical digital transformation projects.
-
-Throughout my career, I have worked on high-impact government, aviation, telecom, and enterprise infrastructure projects across the UAE, Sudan, and Africa. My experience includes supporting large-scale environments, modernizing IT operations, deploying secure infrastructure, integrating fleet and fuel monitoring platforms, and contributing to digital transformation initiatives that improve reliability, automation, and user experience.
-
 Building practical, reliable, and production-ready solutions that solve real operational problems.
+
+Technical expertise and consulation in enterprise IT operations, cloud infrastructure, Microsoft 365, Azure, automation, IoT, Teltonika, telematics, and mission-critical digital transformation projects.
+
+Throughout my career, I have worked on high-impact government, aviation, telecom, and enterprise infrastructure projects across the Middle-East and Africa. My experience includes supporting large-scale environments, modernizing IT operations, deploying secure infrastructure, integrating fleet and fuel monitoring platforms, and contributing to digital transformation initiatives that improve reliability, automation, and user experience.
+
+
 
 **Projects:** Dubai Next Generation Smart Gates | Abu Dhabi Digital Transformation | ADREC Enterprise IT Operations | Microsoft 365 & Azure Administration | Intune & Endpoint Management | SCCM to Intune Modernization | Teltonika & Wialon Fleet Management Solutions | Fuel Monitoring & Technoton Sensor Integration | IoT & Telematics Platforms Across Africa | Node-RED Automation Solutions | Grafana & InfluxDB Monitoring Dashboards | Paperless-ngx AI Document Management | Azure Infrastructure Automation | Microsoft 365 Automation Toolkit | Power Automate Workflows | HPC Networking & AI Infrastructure | RoCE v2 & InfiniBand Deployments | SAN Storage (TIA-942) Solutions | Zain Sudan Data Center Enhancement | Nile Petroleum Digital Solutions | Fleet Fuel Monitoring Platform | Vehicle CAN/FMS Integration Projects | Enterprise Backup & Disaster Recovery | Active Directory & Hybrid Identity Solutions | ITSM & Service Desk Transformation
 
