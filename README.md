@@ -8,7 +8,28 @@ Feel free to download, fork, modify, and use my open-source, self-hosted, lifeti
 
 ---
 
-## Start Here
+# Featured Solutions
+
+<details>
+<summary><b>📍 Teltonika Flespi Telegram Bot</b></summary>
+
+Production-ready Telegram notification system for Teltonika FMC920 and FMB920 devices.
+
+Features:
+
+- Google Maps location links
+- OpenStreetMap tracking
+- Ignition alerts
+- Daily trip statistics
+- Idling reports
+- Towing alerts
+- User-controlled reporting intervals directly from Telegram
+- Docker deployment
+- Raspberry Pi ready
+
+</details>
+
+<details>
 
 <details>
 <summary><b>🚀 Open Solution Catalog</b></summary>
@@ -62,28 +83,6 @@ Feel free to download, fork, modify, and use my open-source, self-hosted, lifeti
 
 ---
 
-# Featured Solutions
-
-<details>
-<summary><b>📍 Teltonika Flespi Telegram Bot</b></summary>
-
-Production-ready Telegram notification system for Teltonika FMC920 and FMB920 devices.
-
-Features:
-
-- Google Maps location links
-- OpenStreetMap tracking
-- Ignition alerts
-- Daily trip statistics
-- Idling reports
-- Towing alerts
-- User-controlled reporting intervals directly from Telegram
-- Docker deployment
-- Raspberry Pi ready
-
-</details>
-
-<details>
 <summary><b>🎥 Simple People Counter</b></summary>
 
 RTSP and video-based people counting platform.
