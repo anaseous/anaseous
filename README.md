@@ -1,8 +1,6 @@
-# Anas Abdalla
-
 Building practical, reliable, production-ready free to use systems for cloud, infrastructure, automation, IoT, telematics, and self-hosted operations.
 
-This GitHub is my engineering workshop — a collection of real-world solutions, deployment-ready templates, dashboards, integrations, and automation tools built to solve operational problems.
+This GitHub is an engineering workshop — a collection of real-world solutions, deployment-ready templates, dashboards, integrations, and automation tools built to solve operational problems.
 
 Feel free to download, fork, modify, and use my open-source, self-hosted, lifetime-free solutions.
 
