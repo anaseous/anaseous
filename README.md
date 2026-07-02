@@ -28,7 +28,7 @@ Production-ready Telegram notification system for Teltonika FMC920 and FMB920.
 </details>
 
 <details>
-<summary><b>🎥 Simple People Counter</b></summary>
+<summary><b>🎥 Simple Video and RTSP People Counter</b></summary>
 
 AI-powered people counting platform.
 
@@ -44,7 +44,7 @@ AI-powered people counting platform.
 </details>
 
 <details>
-<summary><b>⚡ Generator Remote Control Dashboard</b></summary>
+<summary><b>⚡Generator Remote Control Dashboard for DSE Control panel and ALLCAN</b></summary>
 
 Generator monitoring and operational dashboard.
 
@@ -61,7 +61,7 @@ Generator monitoring and operational dashboard.
 </details>
 
 <details>
-<summary><b>📄 AI Document Management</b></summary>
+<summary><b>📄 AI Document Management for Arabic and English Handwritten text</b></summary>
 
 Self-hosted document management and AI automation platform.
 
