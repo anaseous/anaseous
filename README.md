@@ -1,4 +1,4 @@
-Building practical, reliable, production-ready free to use systems for cloud, infrastructure, automation, IoT, telematics, and self-hosted operations.
+Custom purpose built production-ready lightweight solutions for cloud, infrastructure, automation, IoT & telematics operations.
 
 This GitHub is an engineering workshop — a collection of real-world solutions, deployment-ready templates, dashboards, integrations, and automation tools built to solve operational problems.
 
