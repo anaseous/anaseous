@@ -44,7 +44,7 @@ AI-powered people counting platform.
 </details>
 
 <details>
-<summary><b>⚡Generator Remote Control Dashboard for DSE Control panel and ALLCAN</b></summary>
+<summary><b>⚡Generator Remote Control Dashboard for DSE Control panel and CAN</b></summary>
 
 Generator monitoring and operational dashboard.
 
