@@ -128,17 +128,6 @@ Self-hosted document management and AI automation platform.
 
 ---
 
-## Engineering Philosophy
-
-- Build once, deploy anywhere.
-- Keep solutions simple.
-- Reduce vendor dependency.
-- Prefer self-hosted over subscription-based platforms.
-- Publish practical solutions, not theoretical examples.
-- Design for non-technical users whenever possible.
-
----
-
 ## Engineering Domains
 
 ```text
