@@ -176,36 +176,6 @@ Kubernetes
 
 ---
 
-## What You'll Find Here
-
-✅ Open-source solutions
-✅ Self-hosted platforms
-✅ Lifetime-free projects
-✅ Docker deployments
-✅ Raspberry Pi deployments
-✅ Operational dashboards
-✅ IoT integrations
-✅ Fleet & telematics solutions
-✅ Infrastructure automation
-✅ Documentation designed for non-technical users
-
----
-
-## Current Interests
-
-```text
-AI Infrastructure
-Cloud Architecture
-Industrial IoT
-HPC Networking
-System Automation
-Self-Hosted Platforms
-Operational Analytics
-Fleet Intelligence
-```
-
----
-
 ## Repository Categories
 
 | Category | Description |
