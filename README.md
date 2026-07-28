@@ -1,8 +1,8 @@
-Custom purpose built production-ready lightweight solutions for cloud, infrastructure, automation, IoT & telematics operations.
+Custom, purpose-built, production-ready lightweight solutions for cloud, infrastructure, automation, IoT, and telematics operations.
 
-This GitHub is an engineering workshop — a collection of real-world solutions, deployment-ready templates, dashboards, integrations, and automation tools built to solve operational problems.
+This GitHub is a working engineering shop — real-world solutions, deployment-ready templates, dashboards, integrations, and automation tools built to solve actual operational problems, not proof-of-concept demos.
 
-Feel free to download, fork, modify, and use my open-source, self-hosted, lifetime-free solutions.
+Everything here is open-source, self-hosted, and free to download, fork, and modify.
 
 ---
 
@@ -11,10 +11,9 @@ Feel free to download, fork, modify, and use my open-source, self-hosted, lifeti
 <details>
 <summary><b>📍 Teltonika Flespi Telegram Bot</b></summary>
 
-Production-ready Telegram notification system for Teltonika FMC920 and FMB920.
+Production-ready Telegram notification system for Teltonika FMC920 and FMB920 devices.
 
 ### Features
-
 - Google Maps location links
 - OpenStreetMap live tracking
 - Ignition alerts
@@ -33,7 +32,6 @@ Production-ready Telegram notification system for Teltonika FMC920 and FMB920.
 AI-powered people counting platform.
 
 ### Features
-
 - RTSP camera input
 - Video upload processing
 - YOLO AI detection
@@ -44,12 +42,11 @@ AI-powered people counting platform.
 </details>
 
 <details>
-<summary><b>⚡Generator Remote Control Dashboard for DSE Control panel and CAN</b></summary>
+<summary><b>⚡ Generator Remote Control Dashboard (DSE / CAN)</b></summary>
 
-Generator monitoring and operational dashboard.
+Generator monitoring and operational control dashboard for DSE control panels.
 
 ### Features
-
 - DSE integration
 - SmartGen integration
 - Node-RED workflows
@@ -61,13 +58,12 @@ Generator monitoring and operational dashboard.
 </details>
 
 <details>
-<summary><b>📄 AI Document Management for Arabic and English Handwritten text</b></summary>
+<summary><b>📄 AI Document Management — Arabic & English Handwritten Text</b></summary>
 
 Self-hosted document management and AI automation platform.
 
 ### Features
-
-- OCR
+- OCR (Arabic & English, including handwriting)
 - Smart tagging
 - Metadata extraction
 - AI-assisted classification
@@ -81,7 +77,6 @@ Self-hosted document management and AI automation platform.
 <summary><b>🚀 Open Solution Catalog</b></summary>
 
 ## Cloud & Infrastructure
-
 - Microsoft 365
 - Azure
 - Entra ID
@@ -95,7 +90,6 @@ Self-hosted document management and AI automation platform.
 ---
 
 ## IoT & Telematics
-
 - Teltonika
 - Wialon
 - Flespi
@@ -110,7 +104,6 @@ Self-hosted document management and AI automation platform.
 ---
 
 ## Self-Hosted Platforms
-
 - Docker
 - Linux Services
 - Node-RED
@@ -123,7 +116,6 @@ Self-hosted document management and AI automation platform.
 ---
 
 ## Automation
-
 - PowerShell
 - Python
 - REST APIs
@@ -132,9 +124,11 @@ Self-hosted document management and AI automation platform.
 - Operational Dashboards
 - Workflow Automation
 
+</details>
+
 ---
 
-## Open Source
+## Engineering Philosophy
 
 - Build once, deploy anywhere.
 - Keep solutions simple.
@@ -143,10 +137,8 @@ Self-hosted document management and AI automation platform.
 - Publish practical solutions, not theoretical examples.
 - Design for non-technical users whenever possible.
 
-</details>
-
 ---
-<details>
+
 ## Engineering Domains
 
 ```text
@@ -160,7 +152,7 @@ Telematics
 Fleet Operations
 Industrial Monitoring
 Operational Technology
-Self Hosted Platforms
+Self-Hosted Platforms
 AI Workflows
 HPC Infrastructure
 Data Visualization
@@ -198,23 +190,14 @@ Kubernetes
 ## What You'll Find Here
 
 ✅ Open-source solutions
-
 ✅ Self-hosted platforms
-
 ✅ Lifetime-free projects
-
 ✅ Docker deployments
-
 ✅ Raspberry Pi deployments
-
 ✅ Operational dashboards
-
 ✅ IoT integrations
-
 ✅ Fleet & telematics solutions
-
 ✅ Infrastructure automation
-
 ✅ Documentation designed for non-technical users
 
 ---
@@ -227,7 +210,7 @@ Cloud Architecture
 Industrial IoT
 HPC Networking
 System Automation
-Self Hosted Platforms
+Self-Hosted Platforms
 Operational Analytics
 Fleet Intelligence
 ```
@@ -238,4 +221,9 @@ Fleet Intelligence
 
 | Category | Description |
 |----------|-------------|
-<br>
+| Telematics & IoT | Telegram bots, GPS tracking, fleet monitoring, and Teltonika/Flespi integrations |
+| Computer Vision | RTSP and video-based AI detection and counting systems |
+| Industrial Monitoring | Generator control, CAN bus, and fuel monitoring dashboards |
+| Document AI | OCR, classification, and search for scanned and handwritten documents |
+| Infrastructure Automation | PowerShell/Python scripts, REST integrations, and Azure/M365 tooling |
+| Self-Hosted Platforms | Docker-based deployments for Grafana, InfluxDB, Node-RED, and Paperless-ngx |
