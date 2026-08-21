@@ -1,6 +1,6 @@
 Custom, purpose-built, production-ready lightweight solutions for cloud, infrastructure, automation, IoT, and telematics operations.
 
-This GitHub is a working engineering shop — real-world solutions, deployment-ready templates, dashboards, integrations, and automation tools built to solve actual operational problems, not proof-of-concept demos.
+This GitHub is a working engineering workshop — real-world solutions, deployment-ready templates, dashboards, integrations, and automation tools built to solve actual operational problems, not proof-of-concept demos.
 
 Everything here is open-source, self-hosted, and free to download, fork, and modify.
 
