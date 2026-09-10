@@ -11,72 +11,90 @@ Everything here is open-source, self-hosted, and free to download, fork, and mod
 <details>
 <summary><b>📍 Teltonika Flespi Telegram Bot</b></summary>
 
-Production-ready Telegram notification system for Teltonika FMC920 and FMB920 devices.
+Production-ready telemetry alerting platform for Teltonika devices.
 
-### Features
-- Google Maps location links
-- OpenStreetMap live tracking
-- Ignition alerts
-- Towing alerts
-- Idling reports
-- Daily trip reports
-- Telegram-controlled reporting intervals
-- Docker deployment
-- Raspberry Pi ready
+### Key Capabilities
+
+- Real-time vehicle notifications
+- Google Maps and OpenStreetMap integration
+- Ignition and towing detection
+- Idling and trip reporting
+- Telegram-based management controls
+- Docker deployment support
+- Raspberry Pi compatibility
+
+### Technology Stack
+
+`Python` `Docker` `Flespi` `Teltonika` `Telegram API`
 
 </details>
 
 <details>
-<summary><b>🎥 Simple Video and RTSP People Counter</b></summary>
+<summary><b>🎥 Video & RTSP People Counter</b></summary>
 
-AI-powered people counting platform.
+Computer vision platform for occupancy monitoring and people counting.
 
-### Features
-- RTSP camera input
-- Video upload processing
-- YOLO AI detection
-- Browser dashboard
-- Real-time counting
-- Docker ready
+### Key Capabilities
+
+- RTSP stream processing
+- Video file analysis
+- YOLO object detection
+- Browser-based dashboard
+- Real-time occupancy metrics
+- Docker deployment
+
+### Technology Stack
+
+`Python` `YOLO` `OpenCV` `Docker`
 
 </details>
 
 <details>
 <summary><b>⚡ Generator Remote Control Dashboard (DSE / CAN)</b></summary>
 
-Generator monitoring and operational control dashboard for DSE control panels.
+Industrial monitoring and remote control platform for DSE and SmartGen generator controllers.
 
-### Features
-- DSE integration
-- SmartGen integration
-- Node-RED workflows
-- Teltonika integration
-- Fuel monitoring
-- Email alerts
-- Telegram alerts
+### Key Capabilities
+
+- Generator telemetry and monitoring
+- DSE and SmartGen integration
+- CAN bus data collection
+- Fuel monitoring and analytics
+- Node-RED workflow automation
+- Email and Telegram notifications
+
+### Technology Stack
+
+`Node-RED` `DSE` `SmartGen` `CAN Bus` `Grafana`
 
 </details>
 
 <details>
-<summary><b>📄 AI Document Management — Arabic & English Handwritten Text</b></summary>
+<summary><b>📄 Intelligent Document Management</b></summary>
 
-Self-hosted document management and AI automation platform.
+Self-hosted document processing and workflow automation platform supporting Arabic and English documents.
 
-### Features
-- OCR (Arabic & English, including handwriting)
-- Smart tagging
+### Key Capabilities
+
+- OCR extraction
+- Handwriting recognition
 - Metadata extraction
-- AI-assisted classification
+- Document classification
 - Full-text search
+- Automated workflows
+
+### Technology Stack
+
+`Paperless-ngx` `OCR` `Python` `Docker`
 
 </details>
 
 ---
 
-<details>
-<summary><b>🚀 Open Solution Catalog</b></summary>
+## Solution Catalog
 
-## Cloud & Infrastructure
+### Cloud & Infrastructure
+
 - Microsoft 365
 - Azure
 - Entra ID
@@ -84,12 +102,11 @@ Self-hosted document management and AI automation platform.
 - SCCM
 - Active Directory
 - Windows Server
-- Infrastructure Automation
 - Hybrid Identity
+- Infrastructure Automation
 
----
+### IoT & Telematics
 
-## IoT & Telematics
 - Teltonika
 - Wialon
 - Flespi
@@ -101,21 +118,19 @@ Self-hosted document management and AI automation platform.
 - Driver Behaviour Analytics
 - Vehicle Diagnostics
 
----
+### Self-Hosted Platforms
 
-## Self-Hosted Platforms
 - Docker
 - Linux Services
 - Node-RED
 - Grafana
 - InfluxDB
 - Paperless-ngx
-- AI Workflows
-- Telegram Automation
+- Workflow Automation
+- Telegram Integrations
 
----
+### Automation
 
-## Automation
 - PowerShell
 - Python
 - REST APIs
@@ -123,8 +138,6 @@ Self-hosted document management and AI automation platform.
 - Reporting Engines
 - Operational Dashboards
 - Workflow Automation
-
-</details>
 
 ---
 
@@ -142,47 +155,5 @@ Fleet Operations
 Industrial Monitoring
 Operational Technology
 Self-Hosted Platforms
-AI Workflows
-HPC Infrastructure
 Data Visualization
-```
-
----
-
-## Technologies
-
-```text
-Azure
-Microsoft 365
-Entra ID
-Intune
-SCCM
-PowerShell
-Python
-Docker
-Linux
-Grafana
-InfluxDB
-Node-RED
-Wialon
-Teltonika
-Flespi
-REST APIs
-SQL
-VMware
-Hyper-V
-Kubernetes
-```
-
----
-
-## Repository Categories
-
-| Category | Description |
-|----------|-------------|
-| Telematics & IoT | Telegram bots, GPS tracking, fleet monitoring, and Teltonika/Flespi integrations |
-| Computer Vision | RTSP and video-based AI detection and counting systems |
-| Industrial Monitoring | Generator control, CAN bus, and fuel monitoring dashboards |
-| Document AI | OCR, classification, and search for scanned and handwritten documents |
-| Infrastructure Automation | PowerShell/Python scripts, REST integrations, and Azure/M365 tooling |
-| Self-Hosted Platforms | Docker-based deployments for Grafana, InfluxDB, Node-RED, and Paperless-ngx |
+Infrastructure Monitoring
