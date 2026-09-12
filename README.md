@@ -1,6 +1,6 @@
 # Automation • Cloud • DevOps • Infrastructure
 
-Custom, purpose-built solutions for **IT automation, cloud infrastructure, DevOps, systems integration, IoT, telematics, and operational technology**.
+Custom, purpose-built solutions for **Automation, cloud infrastructure, DevOps, systems integration, IoT, telematics, and operational technology**.
 
 A practical engineering workspace focused on reducing manual work, connecting systems, and turning repetitive operational processes into **automated, repeatable, and maintainable solutions**.
 
